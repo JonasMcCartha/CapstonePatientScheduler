@@ -2,7 +2,7 @@
 My capstone project for my bachelor's at Western Governor's University
 
 
-Run the .jar file in the main directory to open. Use 'admin' for the user and 'password' for the password to get in. 
+Run the .jar file in the main directory to start the program. Use 'admin' for the user and 'password' for the password to get in. 
 
 -----------------------------------
 
